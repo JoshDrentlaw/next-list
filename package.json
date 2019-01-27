@@ -1,0 +1,22 @@
+{
+  "name": "next-list",
+  "version": "1.0.0",
+  "description": "Shopping list built on Next.js and React.",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Josh Drentlaw",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "bootstrap": "^4.2.1",
+    "next": "^7.0.2",
+    "node-sass": "^4.11.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "reactstrap": "^7.1.0"
+  }
+}
